@@ -1,7 +1,7 @@
 # srtd-sub
 You can use the tool to search for live subdomains
 
-# Install 
+# install 
 1- apt-get update
 <br>
 2- apt-get install python
