@@ -2,14 +2,14 @@
 You can use the tool to search for live subdomains
 
 # install 
-- apt-get update
+ 1- apt-get update
 <br>
-- apt-get install python3
+ 2- apt-get install python3
 <br>
-- git clone https://github.com/SrTd-Ly/srtd-sub.git
+ 3- git clone https://github.com/SrTd-Ly/srtd-sub.git
 <br>
-- cd srtd-sub
+ 4- cd srtd-sub
 <br>
-- python3 srtd-sub.py
+ 5- python3 srtd-sub.py
 <br>
 
