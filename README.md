@@ -12,7 +12,4 @@ You can use the tool to search for live subdomains
 <br>
 5- python3 srtd-sub.py
 <br>
-<br>
-<video width="320" height="240" controls>
-  <source src="https://www.facebook.com/Omar.alajeley.20/videos/486164386097265" type="video/mp4">
-</video>
+
