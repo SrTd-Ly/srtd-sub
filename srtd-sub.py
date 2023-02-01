@@ -13,8 +13,8 @@ print("""
         ▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▄▀▀▀▀▀▀▀▀▀▄▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▀▀
                       
                      ▄▄ Codede by SrTd_Ly 
-                     ▄▄ facebook.com/Omar.alajeley.20
-                     ▄▄ insta: srtd_ly 
+                     ▄▄ facebook.com/SrTd.Ly1
+                     ▄▄ insta:@srtd_ly 
                         """)
 print()
 print ('Ex: site.com')
